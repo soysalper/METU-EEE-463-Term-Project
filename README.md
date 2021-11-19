@@ -3,5 +3,7 @@ This repository is used to term project of the METU EE463 Static Power Conservat
 Group 6 Members:
 
 Ertuğrul Yolcu
+
 Osman Yücel
+
 Alper Soysal
